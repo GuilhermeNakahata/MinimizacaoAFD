@@ -10,7 +10,7 @@
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 	
 
-<h1 align="center"> AUTÔMATO FINITO DETERMINÍSTICO </h1>
+<h1 align="center"> MINIMIZAÇÃO DE AUTÔMATO FINITO DETERMINÍSTICO </h1>
 
 <p aligin="center"> O Autômato Finito Determinístico (AFD) é um assunto abordado na teoria dos autômatos,
 presente na disciplina de Linguagens Formais Autômatos, que consite em uma máquina
