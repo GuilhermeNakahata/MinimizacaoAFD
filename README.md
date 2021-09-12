@@ -10,9 +10,19 @@
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 	
 
-<h1 align="center"></h1>
+<h1 align="center"> AUTÔMATO FINITO DETERMINÍSTICO </h1>
 
-<p aligin="center"> </p>
+<p aligin="center"> O Autômato Finito Determinístico (AFD) é um assunto abordado na teoria dos autômatos,
+presente na disciplina de Linguagens Formais Autômatos, que consite em uma máquina
+composta por uma fita, uma unidade de controle e transições, possuindo o poder de aceitar
+ou rejeitar uma determinada cadeia de símbolos.
+Dado um AFD, é possível realizar sua minimização, sendo reduzido o número de estados
+utilizados na versão original, mas mantendo a equivalência, pois possuirão a mesma
+linguagem regular. Se dois estados são equivalentes, então poderão ser unidos em um só
+estado. Mas para isso, deve-se levar em consideração que o autômato seja determinístico,
+não pode ter estados inacessíveis e a função de transição deve ser total.
+Este trabalho apresenta a implementação dessa minimização, respeitando os requisitos
+necessários. </p>
 
 
 ---
