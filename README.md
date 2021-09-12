@@ -12,16 +12,20 @@
 
 <h1 align="center"></h1>
 
-<p aligin="center">O Autômato Finito Determinístico (AFD) é um modelo computacional que possui
+<p aligin="center"> </p>
+
+
+---
+
+O Autômato Finito Determinístico (AFD) é um modelo computacional que possui
 estados, tendo obrigatoriamente, um estado inicial e um ou mais estados finais,
 transições, e uma unidade de controle para indicar qual o estado está sendo processado
-no momento. Com isso, ele pode aceitar ou rejeitar palavras.
-Dentre sua descrição formal, podemos encontrar:
+no momento. Com isso, ele pode aceitar ou rejeitar palavras. Dentre sua descrição formal, podemos encontrar:
 - Alfabeto (Σ): são os caracteres que existem na palavra dada.
 - Conjunto de estados (E): todos os estados utilizados para o AFD.
 - Estado inicial (i): como o próprio nome diz, o estado em que se dá início ao autômato.
 - Estados finais (F): estados que podem encerrar o autômato.
-- Tabela de transição: movimentações entre entrados. </p>
+- Tabela de transição: movimentações entre entrados.
 
 ---
 
