@@ -35,7 +35,7 @@ no momento. Com isso, ele pode aceitar ou rejeitar palavras. Dentre sua descriç
 - Estados finais (F): estados que podem encerrar o autômato.
 - Tabela de transição: movimentações entre entrados.
 
-Maiores informações pode ser vista [AQUI](./Minimização AFD - Relatório Técnico.pdf).
+Maiores informações pode ser vista [AQUI](./Minimização AFD - Relatório Técnico.pdf)
 
 ---
 
